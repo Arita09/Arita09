@@ -50,7 +50,6 @@ I am data scientist graduate from BrainStation, I am very enthusiastic about dat
   
 
 <br/>  
----
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arita09&hide_border=true&layout=compact" align="left" />  
 
