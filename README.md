@@ -49,21 +49,14 @@ I am data scientist graduate from BrainStation, I am very enthusiastic about dat
 </div>  
   
 
-<br/>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arita09&hide_border=true&layout=compact" align="left" />  
+<br/>
 
-<br/>  
-<img src="https://github-readme-stats.vercel.app/api?username=arita09&show_icons=true&count_private=true&hide_border=true" align="left" />  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arita09&theme=aura_dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Arita09&theme=aura_dark&show_icons=true)
 
-<br/>  
-
-<br />
-
-
-
-
-
+<br/>
+<br/> 
 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Arita09&&style=flat-square)  
