@@ -1,3 +1,5 @@
+<https://github.com/Arita09/Arita09/blob/main/COVER%201%20(1).png>
+
 ### Hi I'm Ariyan 👋
 I am data scientist graduate from BrainStation, I am very enthusiastic about data science
 - :bar_chart: Love working with Tableau or any visualization tool
