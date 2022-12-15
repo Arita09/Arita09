@@ -1,3 +1,4 @@
+<img src="https://github.com/Arita09/Arita09/blob/main/COVER%201%20(1).png" alt="COVER" width="900" height="600">
 
 ### Hi I'm Ariyan 👋
 I am data scientist graduate from BrainStation, I am very enthusiastic about data science
