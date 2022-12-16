@@ -1,10 +1,10 @@
 <img src="https://github.com/Arita09/Arita09/blob/main/COVER%201%20(1).png" alt="COVER" width="700" height="500">
 
 ### Hi I'm Ariyan 👋
-I am data scientist graduate from BrainStation, I am very enthusiastic about data science
+I am data scientist graduate from BrainStation, I am very enthusiastic and passainate about data science
 - :bar_chart: Love working with Tableau or any visualization tool
 - I'm very passionate and eager to learn
-- My colleagues always tell me about how 
+- My colleagues always tell me about how enthusiastic and self motivated I am, and ask about what is the secret to my optimistive veiws towards life
 - always trying to be better 💪 	
 - 🔭 I’m currently working on a personal project that I have developed and participating on kaggles competions
 - 🌱 I’m currently Practicing AWS skills
