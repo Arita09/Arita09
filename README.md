@@ -15,6 +15,14 @@ I am data scientist graduate from BrainStation, I am very enthusiastic and passa
 - 🔗 My linkedin is : https://www.linkedin.com/in/ariyannooshazar/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love sushi 🍣
+### Some of the projects I have completed:
+- an analysis of Board Games and Starter Campaigns
+- an investigation modeling West Nile Virus prevalence in the Chicago metro area
+- an analysis of Bixi Bike Rental traffic in Montreal
+- the development of a more accessible Google App web services (24 Hr Hackathon by Google in collaboration with BrainStation) 
+- a sentiment analysis using Natural Language Processing (NLP) to classify hotel reviews
+- a data wrangling endeavor to visualize a large dataset from Google Books Ngram
+- a League of Legends Winning Team Analysis and Game prediction (Lead Coder)
 
 ---
 
