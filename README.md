@@ -4,12 +4,12 @@
 I am data scientist graduate from BrainStation, I am very enthusiastic and passainate about data science
 - :bar_chart: Love working with Tableau or any visualization tool
 - I'm very passionate and eager to learn
-- My colleagues always tell me about how enthusiastic and self motivated I am, and ask about what is the secret to my optimistive veiws towards life
+- My colleagues always tell me about how enthusiastic and self motivated I am, and ask about what is the secret to my optimistive views towards life
 - always trying to be better 💪 	
 - 🔭 I’m currently working on a personal project that I have developed and participating on kaggles competions
 - 🌱 I’m currently Practicing AWS skills
 - 👯 I’m looking to collaborate on any data science job or project 👨‍🔬
-- 🙂 I'm open for a job oportunity as a Data scientist/Analyst, and continue to improve my data science skills
+- 🙂 I'm open for a job opportunity as a Data scientist/Analyst, and continue to improve my data science skills
 - 💬 Ask me about anything I'm a open book
 - 📫 How to reach me: ariyan.nooshazar@gmail.com
 - 🔗 My linkedin is : https://www.linkedin.com/in/ariyannooshazar/
