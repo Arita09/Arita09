@@ -1,29 +1,36 @@
-<img src="https://github.com/Arita09/Arita09/blob/main/COVER%201%20(1).png" alt="COVER" width="700" height="500">
+<>
 
-### Hi I'm Ariyan 👋
-I am data scientist graduate from BrainStation, I am very enthusiastic and passainate about data science
-- :bar_chart: Love working with Tableau or any visualization tool
-- I'm very passionate and eager to learn
-- My colleagues always tell me about how enthusiastic and self motivated I am, and ask about what is the secret to my optimistive views towards life
-- always trying to be better 💪 	
-- 🔭 I’m currently working on a personal project that I have developed and participating on kaggles competions
-- 🌱 I’m currently Practicing AWS skills
-- 👯 I’m looking to collaborate on any data science job or project 👨‍🔬
-- 🙂 I'm open for a job opportunity as a Data scientist/Analyst, and continue to improve my data science skills
-- 💬 Ask me about anything I'm a open book
-- 📫 How to reach me: ariyan.nooshazar@gmail.com
-- 🔗 My linkedin is : https://www.linkedin.com/in/ariyannooshazar/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love sushi 🍣
-### Some of the projects I have completed:
-- an analysis of Board Games and Starter Campaigns
-- an investigation modeling West Nile Virus prevalence in the Chicago metro area
-- an analysis of Bixi Bike Rental traffic in Montreal
-- the development of a more accessible Google App web services (24 Hr Hackathon by Google in collaboration with BrainStation) 
-- a sentiment analysis using Natural Language Processing (NLP) to classify hotel reviews
-- a data wrangling endeavor to visualize a large dataset from Google Books Ngram
-- a League of Legends Winning Team Analysis and Game prediction (Lead Coder)
+## Hi👋, my name is Ariyan 
+I'm a **Data and Business Analyst** with a passion for transforming data into meaningful insights. With a strong foundation in data analysis, visualization, and business intelligence, I'm committed to helping organizations make data-driven decisions and improve their operations.
 
+### Skills:
+- **Data Analysis**: Python, R, SQL, Excel
+- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+- **Business Intelligence**: Reporting, Dashboards, KPI Tracking
+- **Data Wrangling**: Pandas, NumPy
+- **Statistical Analysis**: Regression, Hypothesis Testing, Forecasting
+- **Tools & Technologies**: AWS, Google Analytics, SQL Databases
+
+### 🌱 Currently working on:
+- Building an interactive **data dashboard** using **Tableau** to visualize key business metrics.
+- Participating in **Kaggle competitions** focused on improving data cleaning, predictive modeling, and business case studies.
+- Enhancing my **AWS** skills to manage cloud-based data analytics projects.
+
+### 📊 Selected Projects:
+- **Board Games and Starter Campaigns Analysis**: Analyzed data to uncover market trends and provide actionable insights for businesses in the gaming industry.
+- **West Nile Virus Prevalence Modeling**: Modeled the spread of West Nile virus across the Chicago metro area, using geographic and environmental data to forecast future outbreaks.
+- **Bixi Bike Rental Traffic Analysis**: Investigated patterns in bike rental data to optimize services in Montreal, identifying factors influencing usage.
+- **Google App Web Services Development**: Participated in a hackathon where we developed an accessible web service solution for Google Apps, improving the user experience through data-driven insights.
+- **Sentiment Analysis on Hotel Reviews**: Used **NLP** techniques to classify hotel reviews by sentiment, providing insights into customer satisfaction.
+
+### 🚀 I'm currently looking for:
+**Data Analyst** or **Business Analyst** roles where I can apply my technical skills to deliver insights that drive business decisions. I'm passionate about using data to tell a compelling story and improve processes.
+
+Feel free to **reach out** if you have any questions, want to collaborate on a project, or discuss opportunities in data analysis!
+
+📫 **Contact me**:  
+🔗 **LinkedIn**: [(https://www.linkedin.com/in/ariyannooshazar/)]  
+⚡ **Fun Fact**: I love sushi 🍣
 ---
 
 ### Languages and Tools  
