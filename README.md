@@ -14,6 +14,13 @@ I'm a **Data Analyst** with a passion for transforming data into meaningful insi
 - Participating in **Kaggle competitions** focused on improving data cleaning, predictive modeling, and business case studies.
 - Enhancing my **AWS** skills to manage cloud-based data analytics projects.
 
+
+### ✅ **DS Bootcamp Project: League of Legends Winning Team Analysis and Game Prediction**
+- **Goal**: Analyze historical **League of Legends** match data to identify factors influencing winning teams and develop a predictive model for future game outcomes.
+- **Tools & Technologies**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
+- **Methodology**: Used historical game data to examine team composition, player stats, and match outcomes. Performed exploratory data analysis (EDA) to identify key features correlated with team victories. Developed a machine learning model to predict game results based on these features.
+- **Impact**: Created a model that provides insights into **team strategies**, helping players and analysts predict game outcomes with increased accuracy.
+
 ### 📊 Selected Projects:
 - **Board Games and Starter Campaigns Analysis**: Analyzed data to uncover market trends and provide actionable insights for businesses in the gaming industry.
 - **West Nile Virus Prevalence Modeling**: Modeled the spread of West Nile virus across the Chicago metro area, using geographic and environmental data to forecast future outbreaks.
