@@ -22,11 +22,48 @@ I'm a **Data Analyst** with a passion for transforming data into meaningful insi
 - **Impact**: Created a model that provides insights into **team strategies**, helping players and analysts predict game outcomes with increased accuracy.
 
 ### 📊 Selected Projects:
-- **Board Games and Starter Campaigns Analysis**: Analyzed data to uncover market trends and provide actionable insights for businesses in the gaming industry.
-- **West Nile Virus Prevalence Modeling**: Modeled the spread of West Nile virus across the Chicago metro area, using geographic and environmental data to forecast future outbreaks.
-- **Bixi Bike Rental Traffic Analysis**: Investigated patterns in bike rental data to optimize services in Montreal, identifying factors influencing usage.
-- **Google App Web Services Development**: Participated in a hackathon where we developed an accessible web service solution for Google Apps, improving the user experience through data-driven insights.
-- **Sentiment Analysis on Hotel Reviews**: Used **NLP** techniques to classify hotel reviews by sentiment, providing insights into customer satisfaction.
+**Board Games and Starter Campaigns Analysis**  
+- **Goal**: Analyzed data to uncover market trends and provide actionable insights for businesses in the gaming industry.  
+- **Tools**: Python (Pandas), Excel, Tableau.  
+- **Impact**: Provided actionable recommendations for game developers on product launches, helping improve initial campaign strategies.
+
+---
+
+**West Nile Virus Prevalence Modeling**  
+- **Goal**: Modeled the spread of West Nile virus across the Chicago metro area, using geographic and environmental data to forecast future outbreaks.  
+- **Tools**: R, GIS tools, SQL.  
+- **Impact**: Delivered predictive insights on virus spread, helping local authorities prepare for potential outbreaks.
+
+---
+
+**Bixi Bike Rental Traffic Analysis**  
+- **Goal**: Investigated patterns in bike rental data to optimize services in Montreal, identifying factors influencing usage.  
+- **Tools**: Python (Pandas), Tableau, SQL.  
+- **Impact**: Identified trends in bike usage, providing recommendations that helped optimize fleet distribution, reducing wait times for users.
+
+---
+
+**Google App Web Services Development (Hackathon)**  
+- **Goal**: Participated in a hackathon where we developed an accessible web service solution for Google Apps, improving the user experience through data-driven insights.  
+- **Tools**: Python, Google APIs, JavaScript.  
+- **Impact**: Created a prototype that helped users navigate Google Apps more efficiently, enhancing the accessibility of the web service.
+
+---
+
+**Sentiment Analysis on Hotel Reviews**  
+- **Goal**: Used NLP techniques to classify hotel reviews by sentiment, providing insights into customer satisfaction.  
+- **Tools**: Python (NLTK, Scikit-learn), Jupyter Notebook.  
+- **Impact**: Delivered key insights into customer sentiment, assisting businesses in understanding customer satisfaction and improving service quality.
+
+---
+
+**Google Books Ngram Visualization and Data Wrangling**  
+- **Goal**: Wrangle and visualize a large dataset from **Google Books Ngram** to explore trends in word usage over time across different languages.  
+- **Tools & Technologies**: Python, Pandas, Matplotlib, Seaborn.  
+- **Methodology**: Cleaned and transformed the dataset to identify trends in the frequency of specific words and phrases over multiple centuries. Created visualizations to showcase the rise and fall of word usage over time, with a focus on cultural and historical shifts.  
+- **Impact**: Provided insights into how language evolves and is influenced by cultural and societal changes, helping researchers and linguists analyze historical shifts in language usage.
+
+
 
 ### 🚀 I'm currently looking for:
 **Data Analyst** or **Business Analyst** roles where I can apply my technical skills to deliver insights that drive business decisions. I'm passionate about using data to tell a compelling story and improve processes.
