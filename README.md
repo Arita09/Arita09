@@ -27,9 +27,7 @@ I'm a **Data and Business Analyst** with a passion for transforming data into me
 **Data Analyst** or **Business Analyst** roles where I can apply my technical skills to deliver insights that drive business decisions. I'm passionate about using data to tell a compelling story and improve processes.
 
 Feel free to **reach out** if you have any questions, want to collaborate on a project, or discuss opportunities in data analysis!
-
-📫 **Contact me**:  
-🔗 **LinkedIn**: [(https://www.linkedin.com/in/ariyannooshazar/)]  
+ 
 ⚡ **Fun Fact**: I love sushi 🍣
 ---
 
