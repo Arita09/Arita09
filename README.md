@@ -1,7 +1,5 @@
-<>
-
 ## Hi👋, my name is Ariyan 
-I'm a **Data and Business Analyst** with a passion for transforming data into meaningful insights. With a strong foundation in data analysis, visualization, and business intelligence, I'm committed to helping organizations make data-driven decisions and improve their operations.
+I'm a **Data Analyst** with a passion for transforming data into meaningful insights. With a strong foundation in data analysis, visualization, and business intelligence, I'm committed to helping organizations make data-driven decisions and improve their operations.
 
 ### Skills:
 - **Data Analysis**: Python, R, SQL, Excel
