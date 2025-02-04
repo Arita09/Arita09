@@ -3,7 +3,7 @@ I'm a **Data Analyst** with a passion for transforming data into meaningful insi
 
 ### Skills:
 - **Data Analysis**: Python, R, SQL, Excel
-- **Data Visualization**: Tableau, Power BI, Matplotlib, Seaborn
+- **Data Visualization**: Tableau, Power BI, Looker, Matplotlib, Seaborn
 - **Business Intelligence**: Reporting, Dashboards, KPI Tracking
 - **Data Wrangling**: Pandas, NumPy
 - **Statistical Analysis**: Regression, Hypothesis Testing, Forecasting
